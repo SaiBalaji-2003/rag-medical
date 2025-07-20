@@ -1,0 +1,229 @@
+ICD-10 Mental and Behavioral Disorders Classification System
+
+F00-F09 Organic, including symptomatic, mental disorders
+
+F00 - Dementia in Alzheimer's disease: This diagnosis is used for dementia that is directly caused by Alzheimer's disease. The dementia is characterized by a slow, progressive decline in memory, thinking, and reasoning skills.
+
+F01 - Vascular dementia: This type of dementia is the result of brain damage due to cerebrovascular disease, such as strokes. The onset is often sudden, and the course is typically stepwise, with periods of stability followed by abrupt declines in function.
+
+F02 - Dementia in other diseases classified elsewhere: This code is for dementia that is a manifestation of other medical conditions, such as Parkinson's disease, Huntington's disease, or HIV.
+
+F03 - Unspecified dementia: This code is used when a diagnosis of dementia is made, but the underlying cause is not specified or is unknown.
+
+F04 - Organic amnesic syndrome, not induced by alcohol and other psychoactive substances: This syndrome is characterized by a significant impairment in memory (both recent and remote) due to known brain damage or disease, but not caused by substance use. Other cognitive functions are relatively intact.
+
+F05 - Delirium, not induced by alcohol and other psychoactive substances: Delirium is a disturbance of consciousness and attention, with a fluctuating course. It develops over a short period and is a direct physiological consequence of a medical condition.
+
+F06 - Other mental disorders due to brain damage and dysfunction and to physical disease: This is a residual category for other mental disorders that are caused by brain disease or damage, but do not fit the criteria for dementia, amnesic syndrome, or delirium. Examples include organic hallucinosis or organic mood disorder.
+
+F07 - Personality and behavioral disorders due to brain disease, damage and dysfunction: This diagnosis is used for significant alterations in personality and behavior that are a direct result of brain disease or injury. This can include changes in emotional expression, impulse control, and social behavior.
+
+F09 - Unspecified organic or symptomatic mental disorder: This code is used for mental disorders that are presumed to be organic in origin, but it is not possible to specify whether it is due to a known medical condition or substance use.
+
+F10-F19 Mental and behavioral disorders due to psychoactive substance use
+
+F10 - Mental and behavioral disorders due to use of alcohol: This category includes a range of disorders related to alcohol use, such as acute intoxication, harmful use, dependence syndrome, and withdrawal state.
+
+F11 - Mental and behavioral disorders due to use of opioids: This category covers disorders resulting from the use of opioids like heroin or morphine, including dependence, abuse, and withdrawal.
+
+F12 - Mental and behavioral disorders due to use of cannabinoids: This category is for disorders related to the use of cannabis, such as intoxication, dependence, and psychotic disorders.
+
+F13 - Mental and behavioral disorders due to use of sedatives or hypnotics: This is for disorders related to the use of substances like benzodiazepines or barbiturates, including dependence and withdrawal.
+
+F14 - Mental and behavioral disorders due to use of cocaine: This category covers disorders from cocaine use, such as intoxication, dependence, and psychotic disorders.
+
+F15 - Mental and behavioral disorders due to use of other stimulants, including caffeine: This category includes disorders related to the use of stimulants like amphetamines or ecstasy, as well as caffeine.
+
+F16 - Mental and behavioral disorders due to use of hallucinogens: This is for disorders resulting from the use of hallucinogens like LSD or psilocybin.
+
+F17 - Mental and behavioral disorders due to use of tobacco: This category covers disorders related to tobacco use, primarily nicotine dependence and withdrawal.
+
+F18 - Mental and behavioral disorders due to use of volatile solvents: This is for disorders related to the inhalation of volatile substances like glue or paint thinner.
+
+F19 - Mental and behavioral disorders due to multiple drug use and use of other psychoactive substances: This code is used when a person has a disorder related to the use of multiple substances, and it is not possible to identify a single primary substance.
+
+F20-F29 Schizophrenia, schizotypal and delusional disorders
+
+F20 - Schizophrenia: A severe mental disorder characterized by profound disruptions in thinking, affecting language, perception, and the sense of self. It often includes psychotic experiences, such as hearing voices or delusions.
+
+F21 - Schizotypal disorder: A disorder characterized by eccentric behavior and anomalies of thinking and affect which resemble those seen in schizophrenia, but with no definite and sustained psychotic symptoms.
+
+F22 - Persistent delusional disorders: This category is for disorders in which a long-standing delusion is the only, or the most conspicuous, clinical characteristic and which cannot be classified as organic, schizophrenic or affective.
+
+F23 - Acute and transient psychotic disorders: A heterogeneous group of disorders characterized by the acute onset of psychotic symptoms like delusions, hallucinations, and perceptual disturbances, with a rapid and full recovery.
+
+F24 - Induced delusional disorder: A delusional disorder shared by two or more people with close emotional links. Only one person suffers from a genuine psychotic disorder; the delusions are induced in the other(s) and usually disappear when the people are separated.
+
+F25 - Schizoaffective disorders: Episodic disorders in which both affective and schizophrenic symptoms are prominent but which do not justify a diagnosis of either schizophrenia or depressive or manic episodes.
+
+F28 - Other nonorganic psychotic disorders: This is a residual category for psychotic disorders that do not fit the criteria for the other categories in this section.
+
+F29 - Unspecified nonorganic psychosis: This code is used when a diagnosis of a nonorganic psychosis is made, but it is not possible to specify the type.
+
+F30-F39 Mood [affective] disorders
+
+F30 - Manic episode: A mood disorder characterized by a period of at least one week where an elevated, expansive, or unusually irritable mood exists.
+
+F31 - Bipolar affective disorder: A disorder characterized by two or more episodes in which the patient's mood and activity levels are significantly disturbed, this disturbance consisting on some occasions of an elevation of mood and increased energy and activity (hypomania or mania) and on others of a lowering of mood and decreased energy and activity (depression).
+
+F32 - Depressive episode: A mood disorder characterized by a period of at least two weeks during which there is either depressed mood or the loss of interest or pleasure in nearly all activities.
+
+F33 - Recurrent depressive disorder: A disorder characterized by repeated episodes of depression as described for depressive episode (F32.-), without any history of independent episodes of mood elevation and increased energy (mania).
+
+F33.0 Recurrent depressive disorder, current episode mild: Diagnostic criteria for mild depressive episode are met, and there has been at least one previous episode of depression.
+
+F33.1 Recurrent depressive disorder, current episode moderate: Diagnostic criteria for moderate depressive episode are met, and there has been at least one previous episode of depression.
+
+F33.2 Recurrent depressive disorder, current episode severe without psychotic symptoms: Diagnostic criteria for severe depressive episode without psychotic symptoms are met, and there has been at least one previous episode.
+
+F33.3 Recurrent depressive disorder, current episode severe with psychotic symptoms: Diagnostic criteria for severe depressive episode with psychotic symptoms are met, and there has been at least one previous episode.
+
+F33.4 Recurrent depressive disorder, currently in remission: There has been at least one previous mild, moderate, or severe depressive episode, but the current mental state does not meet criteria for depressive episode of any severity.
+
+F34 - Persistent mood [affective] disorders: A group of long-term, continuous mood disorders, including cyclothymia and dysthymia.
+
+F38 - Other mood [affective] disorders: A residual category for mood disorders that cannot be classified elsewhere in this section.
+
+F39 - Unspecified mood [affective] disorder: This code is used for mood disorders that do not meet the criteria for any of the specific categories.
+
+F40-F48 Neurotic, stress-related and somatoform disorders
+
+F40 - Phobic anxiety disorders: A group of disorders in which anxiety is evoked only, or predominantly, in certain well-defined situations that are not currently dangerous.
+
+F40.0 Agoraphobia: Anxiety about being in places or situations from which escape might be difficult or embarrassing, or in which help may not be available in the event of having a panic attack.
+
+F40.1 Social phobias: Fear of scrutiny by other people leading to avoidance of social situations. Symptoms may progress to panic attacks.
+
+F40.2 Specific (isolated) phobias: Phobias restricted to highly specific situations such as proximity to particular animals, heights, thunder, darkness, flying, closed spaces, urinating or defecating in public toilets.
+
+F41 - Other anxiety disorders: This category includes disorders in which anxiety is the predominant symptom but is not restricted to any particular environmental situation.
+
+F41.1 - Generalized anxiety disorder: Essential feature is anxiety that is generalized and persistent but not restricted to particular environmental circumstances. Dominant symptoms include persistent nervousness, trembling, muscular tensions, sweating, lightheadedness, palpitations, dizziness, and epigastric discomfort.
+
+F42 - Obsessive-compulsive disorder: A disorder characterized by recurrent obsessional thoughts or compulsive acts. Obsessional thoughts are ideas, images, or impulses that enter the patient's mind again and again in a stereotyped form.
+
+Diagnostic criteria for Obsessive-Compulsive Disorder (OCD):
+A. Presence of obsessions, compulsions, or both:
+Obsessions are defined by (1) and (2):
+1. Recurrent and persistent thoughts, urges, or images that are experienced as intrusive and unwanted
+2. The individual attempts to ignore or suppress such thoughts, urges, or images, or to neutralize them with some other thought or action
+
+Compulsions are defined by (1) and (2):
+1. Repetitive behaviors or mental acts that the individual feels driven to perform in response to an obsession or according to rules that must be applied rigidly
+2. The behaviors or mental acts are aimed at preventing or reducing anxiety or distress, or preventing some dreaded event or situation
+
+B. The obsessions or compulsions are time-consuming (take more than 1 hour per day) or cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+C. The obsessive-compulsive symptoms are not attributable to the physiological effects of a substance or another medical condition.
+
+D. The disturbance is not better explained by the symptoms of another mental disorder.
+
+F43 - Reaction to severe stress, and adjustment disorders: This category includes disorders that are identifiable as being a direct consequence of acute severe stress or continued trauma.
+
+F43.1 - Post-traumatic stress disorder: Arises as a delayed or protracted response to a stressful event or situation of an exceptionally threatening or catastrophic nature. Typical features include episodes of repeated reliving of the trauma in intrusive memories, dreams, or nightmares, occurring against the persistent background of a sense of numbness and emotional blunting.
+
+F44 - Dissociative [conversion] disorders: The common theme of dissociative disorders is a partial or complete loss of the normal integration between memories of the past, awareness of identity and immediate sensations, and control of bodily movements.
+
+F45 - Somatoform disorders: The main feature of somatoform disorders is the repeated presentation of physical symptoms, together with persistent requests for medical investigations, in spite of repeated negative findings and reassurances by doctors.
+
+F48 - Other neurotic disorders: A residual category for neurotic disorders that cannot be classified elsewhere in this section.
+
+F50-F59 Behavioral syndromes associated with physiological disturbances and physical factors
+
+F50 - Eating disorders: A group of disorders characterized by a disturbance of eating behavior.
+
+F50.0 Anorexia nervosa: Characterized by deliberate weight loss, induced and sustained by the patient. Body weight is maintained at least 15% below expected weight for height and age.
+
+F50.2 Bulimia nervosa: Characterized by repeated bouts of overeating and an excessive preoccupation with the control of body weight, leading to a pattern of overeating followed by vomiting or use of purgatives.
+
+F51 - Nonorganic sleep disorders: A category of sleep disorders that are not caused by a known organic factor.
+
+F52 - Sexual dysfunction, not caused by organic disorder or disease: This category includes various kinds of sexual dysfunction that are not caused by any organic disorder.
+
+F53 - Mental and behavioral disorders associated with the puerperium, not elsewhere classified: This category includes mental and behavioral disorders that begin within six weeks of childbirth and do not meet the criteria for disorders classified elsewhere.
+
+F54 - Psychological and behavioral factors associated with disorders or diseases classified elsewhere: This category is for psychological and behavioral factors that are thought to have played a major part in the etiology of physical disorders.
+
+F55 - Abuse of non-psychoactive substances: This category is for the abuse of substances that are not psychoactive, such as laxatives or aspirin.
+
+F59 - Unspecified behavioral syndromes associated with physiological disturbances and physical factors: This is a residual category for behavioral syndromes that are associated with physical disorders but cannot be classified elsewhere.
+
+F60-F69 Disorders of adult personality and behavior
+
+F60 - Specific personality disorders: Deeply ingrained and enduring behavior patterns, manifesting as inflexible responses to a broad range of personal and social situations.
+
+F60.0 Paranoid personality disorder: Characterized by excessive sensitivity to setbacks and rebuffs, tendency to bear grudges persistently, suspiciousness and a pervasive tendency to distort experience.
+
+F60.1 Schizoid personality disorder: Characterized by withdrawal from affectional, social and other contacts with preference for fantasy, solitary activities, and introspection.
+
+F60.2 Dissocial personality disorder: Characterized by disregard for social obligations, callous unconcern for the feelings of others, and incapacity to maintain enduring relationships.
+
+F61 - Mixed and other personality disorders: This category is for personality disorders that have features of several of the specific personality disorders but do not meet the full criteria for any one of them.
+
+F62 - Enduring personality changes, not attributable to brain damage and disease: This is for personality changes that are not due to a known brain injury or disease but follow a catastrophic or prolonged stressful experience.
+
+F63 - Habit and impulse disorders: This category includes disorders of behavior that are not classifiable under other categories. They are characterized by repeated acts that have no clear rational motivation, that are generally harmful to the person's own interests and those of other people.
+
+F64 - Gender identity disorders: A desire to live and be accepted as a member of the opposite sex, usually accompanied by a sense of discomfort with, or inappropriateness of, one's anatomic sex.
+
+F65 - Paraphilias: A group of disorders characterized by recurrent, intense, sexually arousing fantasies, sexual urges, or behaviors generally involving 1) non-human objects, 2) the suffering or humiliation of oneself or one's partner, or 3) children or other nonconsenting persons.
+
+F66 - Psychological and behavioral disorders associated with sexual development and orientation: This category is for disorders of sexual development and orientation that are not classifiable as gender identity disorders or paraphilias.
+
+F68 - Other disorders of adult personality and behavior: A residual category for disorders of adult personality and behavior that cannot be classified elsewhere.
+
+F69 - Unspecified disorder of adult personality and behavior: This code is used when a diagnosis of a personality disorder is made, but it is not possible to specify the type.
+
+F70-F79 Mental retardation
+
+F70 - Mild mental retardation: IQ in the range of 50-69.
+
+F71 - Moderate mental retardation: IQ in the range of 35-49.
+
+F72 - Severe mental retardation: IQ in the range of 20-34.
+
+F73 - Profound mental retardation: IQ below 20.
+
+F78 - Other mental retardation: This category is for mental retardation for which the degree of impairment cannot be assessed by the usual methods.
+
+F79 - Unspecified mental retardation: This code is used when there is evidence of mental retardation, but there is insufficient information to assign it to one of the specific categories.
+
+F80-F89 Disorders of psychological development
+
+F80 - Specific developmental disorders of speech and language: Disorders in which normal patterns of language acquisition are disturbed from the early stages of development.
+
+F81 - Specific developmental disorders of scholastic skills: Disorders in which the normal patterns of skill acquisition are disturbed from the early stages of development.
+
+F82 - Specific developmental disorder of motor function: A disorder in which the main feature is a serious impairment in the development of motor coordination.
+
+F83 - Mixed specific developmental disorders: A residual category for disorders in which there is a mixture of specific developmental disorders of speech and language, scholastic skills, and motor function.
+
+F84 - Pervasive developmental disorders: A group of disorders characterized by qualitative abnormalities in reciprocal social interactions and patterns of communication, and by a restricted, stereotyped, repetitive repertoire of interests and activities.
+
+F84.0 - Childhood autism: Developmental disorder characterized by abnormal or impaired development in social interaction and communication, and by a restricted, repetitive repertoire of activities and interests.
+
+F88 - Other disorders of psychological development: A residual category for disorders of psychological development that cannot be classified elsewhere.
+
+F89 - Unspecified disorder of psychological development: This code is used when there is evidence of a disorder of psychological development, but there is insufficient information to assign it to one of the specific categories.
+
+F90-F98 Behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+
+F90 - Hyperkinetic disorders: A group of disorders characterized by an early onset, a combination of overactive, poorly modulated behavior with marked inattention and lack of persistent task involvement.
+
+F90.0 Disturbance of activity and attention: General criteria for hyperkinetic disorder must be met, but not those for F90.1 or F90.2. Characterized by early onset, combination of overactive behavior with marked inattention and lack of persistent task involvement.
+
+F91 - Conduct disorders: A repetitive and persistent pattern of dissocial, aggressive, or defiant conduct.
+
+F92 - Mixed disorders of conduct and emotions: A group of disorders characterized by the combination of persistently aggressive, dissocial or defiant behavior with overt and marked symptoms of depression, anxiety or other emotional upsets.
+
+F93 - Emotional disorders with onset specific to childhood: A group of disorders characterized by an exaggeration of normal developmental trends rather than by phenomena that are qualitatively abnormal in themselves.
+
+F94 - Disorders of social functioning with onset specific to childhood and adolescence: A somewhat heterogeneous group of disorders that have in common abnormalities of social functioning that begin in the developmental period, but which are not primarily characterized by a seemingly constitutional social incapacity or deficit that pervades all areas of functioning.
+
+F95 - Tic disorders: A tic is an involuntary, rapid, recurrent, nonrhythmic motor movement or vocalization.
+
+F98 - Other behavioral and emotional disorders with onset usually occurring in childhood and adolescence: A heterogeneous group of disorders that have in common the onset in childhood but otherwise differ in many ways.
+
+F99-F99 Unspecified mental disorder
+
+F99 - Mental disorder, not otherwise specified: This code is used for mental disorders that cannot be classified in any of the other categories.
